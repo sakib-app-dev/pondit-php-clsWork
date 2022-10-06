@@ -1,0 +1,7 @@
+OPP
+class
+object
+Abstraction
+Encapsulation
+inheretance
+polymorphism

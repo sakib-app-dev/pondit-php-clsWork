@@ -1,0 +1,42 @@
+Topic: variable handleing Function
+----------------------------
+isset()
+is_null - null kina seta check korte
+empty-empty kina seta check korte
+var_dump()
+array_key_exists()-> data array te ase kina seta check korte
+serialize()-> array ke string banate chaile
+unserialize()->db theke asa string ke 
+unset()-array theke kisu data baad dite chaile
+
+
+
+Topic: String Handleing Function
+---------------------------
+str_split
+strlen()-> string lenght janar jonno
+strupper()->String gulu upper form e show korbe
+strlower()->lowerCase
+ucfirst()->sentence er 1st word capital
+ucwords()->sen er sob word capital latter
+$data='the name is fox';
+str_repeat($data , 5)-> sentence multiple time print korbe 
+str_replace('name','',$data)// 3ta parametar->word replace korte
+trim($data)->samne / pise extra space thekle ta remove korte
+strpos($data,'name')->postion show korbe
+
+$arr=      ;
+implode(' ',$arr);->array ke sentence akare dekhete space use korbe
+join(' ',$arr)
+explode(',',$data)
+
+nl2br("hello \n world"); -> line break
+
+
+number_format(10000,2)->doshmik 2 ghor asbe
+
+
+
+
+
+

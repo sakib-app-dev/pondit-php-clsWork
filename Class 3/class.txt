@@ -1,0 +1,2 @@
+Operator
+super global variable 

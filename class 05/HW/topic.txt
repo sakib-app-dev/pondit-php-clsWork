@@ -1,0 +1,23 @@
+case insensetive
+preg_match
+
+regEX
+
+while 
+do-while
+for 
+foreach-  ARRAY -(INDEX ARRAY)- (associative array)-multidimentional
+
+break();
+continue();
+sort();
+rsort();
+arsort();
+ksort();
+krsort();
+
+***************************
+file function- self Study
+
+multidimentinal array diye
+
